@@ -1,0 +1,11 @@
+# Soft Miles v1.0 — store checklist
+- [x] Portrait HTML5 playable (720×1280)
+- [x] App icon (`v1/app_icon.png`)
+- [x] COI / SharedArrayBuffer boot gate
+- [x] Soft audio crumbs
+- [x] Mill Street + Forest + Coast loop
+- [x] Season album hunger
+- [x] Week-1+ light joy-type pick
+- [x] Root URL → latest (`/`)
+- [ ] Store listing copy / screenshots (human)
+- [ ] Privacy / age rating (human)
