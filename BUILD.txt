@@ -1,1 +1,1 @@
-v0.2.4 — use /v024/sm024.html
+v0.2.4 active: /v024/sm024.html | v0.2.5 vanity+album: /v025/sm025.html
